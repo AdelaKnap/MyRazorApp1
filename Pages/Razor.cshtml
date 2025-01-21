@@ -1,11 +1,13 @@
 ﻿@page
-@model PrivacyModel
+@model RazorModel
 @{
     ViewData["Title"] = "Razor";
 }
-<h1>@ViewData["Title"]</h1>
+<div class="container">
 
-<h2>Information</h2>
+<h1 class="text mb-3">@ViewData["Title"]</h1>
+
+<h2 class="text mb-3">Information</h2>
 <p><strong>Datum/klockslag:</strong> @DateTime.Now</p>
 
 @{
@@ -19,8 +21,9 @@
     }
 }
 
+<button id="button" onclick="showMessage()">Klicka här!</button>
 
-<h3>Kurser jag läst: </h3>
+<h3 class="text mt-4 mb-3">Kurser jag läst: </h3>
 @{
     string[] courses = ["DT057G, Webbutveckling I", "DT084G, Introduktion till programmering i JavaScript", "DT200G, Grafisk teknik för webb", "DT068G, Webbanvändbarhet", "DT003G, Databaser", "DT211G, Frontend-baserad webbutveckling", "DT207G, Backend-baserad webbutveckling", "DT208G, Programmering i TypeScript", "IK060G, Projektledning", "DT071G, Programmering i C#.NET", "DT193G, Fullstack-utveckling med ramverk", "DT209G, Webbutveckling för WordPress", "DT209G, Wordpress"];
 }
@@ -31,3 +34,8 @@
         <li>@course</li>
     }
 </ul>
+
+</div>
+
+<!-- import av js-filen -->
+<script src="js/site.js"></script>

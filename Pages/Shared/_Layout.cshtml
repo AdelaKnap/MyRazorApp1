@@ -13,38 +13,46 @@
 
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container">
-                <a class="navbar-brand" asp-page="/Index">
-                    <img src="/images/ikon300.png" alt="Logotyp" style="height: 120px;" />
-                </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
-                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Hem</a>
+        <div class="bg-white border-bottom box-shadow mb-3 p-3 d-flex justify-content-between align-items-center">
+            <!-- Logotyp -->
+            <a href="/" class="d-flex align-items-center text-decoration-none">
+                <img src="/images/ikon300.png" alt="Logotyp" style="height: 120px;" />
+            </a>
+            <!-- Datum -->
+            <div>
+                <span class="text-muted p-3">Dagens datum är: @DateTime.Now.ToString("yyyy-MM-dd")</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- sidebar och main -->
+    <div class="container-fluid">
+        <div class="row">
+            <!-- Sidebar -->
+            <aside class="col-md-3 border mb-5">
+                <nav>
+                    <ul class="nav flex-column text-center pt-4">
+                        <li class="nav-item border mb-3">
+                            <a class="nav-link" asp-page="/Index">Hem</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Razor">Razor</a>
+                        <li class="nav-item border mb-3">
+                            <a class="nav-link" asp-page="/Razor">Razor</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/About">Om sidan</a>
+                        <li class="nav-item border mb-3">
+                            <a class="nav-link" asp-page="/About">Om sidan</a>
                         </li>
                     </ul>
-                </div>
-            </div>
-        </nav>
-    </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
+                </nav>
+            </aside>
+
+            <!-- Main content -->
+            <main class="col-md-8 mb-5">
+                @RenderBody()
+            </main>
+        </div>
     </div>
 
-    <footer class="border-top footer text-center">
+    <footer class="footer border mb-3 text-center">
         <div class="container">
             <p>Av Adela Knap - Kontakta mig via e-post: <a
                     href="mailto:adkna2300@student.miun.se">adkna2300@student.miun.se</a></p>

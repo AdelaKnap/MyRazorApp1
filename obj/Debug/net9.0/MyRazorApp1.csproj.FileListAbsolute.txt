@@ -114,9 +114,7 @@ C:\Skola\MyRazorApp1\obj\Debug\net9.0\MyRazorApp1.RazorAssemblyInfo.cs
 C:\Skola\MyRazorApp1\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Skola\MyRazorApp1\obj\Debug\net9.0\scopedcss\bundle\MyRazorApp1.styles.css
 C:\Skola\MyRazorApp1\obj\Debug\net9.0\scopedcss\projectbundle\MyRazorApp1.bundle.scp.css
-C:\Skola\MyRazorApp1\obj\Debug\net9.0\compressed\p9xlde0wn6-b9sayid5wm.gz
 C:\Skola\MyRazorApp1\obj\Debug\net9.0\compressed\e73u9wzhea-61n19gt1b8.gz
-C:\Skola\MyRazorApp1\obj\Debug\net9.0\compressed\ca3l59khot-xtxxf3hu2r.gz
 C:\Skola\MyRazorApp1\obj\Debug\net9.0\compressed\vupjxvmsqn-bqjiyaj88i.gz
 C:\Skola\MyRazorApp1\obj\Debug\net9.0\compressed\ocbtow246u-c2jlpeoesf.gz
 C:\Skola\MyRazorApp1\obj\Debug\net9.0\compressed\lveuqznkte-erw9l3u2r3.gz
@@ -192,3 +190,6 @@ C:\Skola\MyRazorApp1\obj\Debug\net9.0\refint\MyRazorApp1.dll
 C:\Skola\MyRazorApp1\obj\Debug\net9.0\MyRazorApp1.pdb
 C:\Skola\MyRazorApp1\obj\Debug\net9.0\MyRazorApp1.genruntimeconfig.cache
 C:\Skola\MyRazorApp1\obj\Debug\net9.0\ref\MyRazorApp1.dll
+C:\Skola\MyRazorApp1\obj\Debug\net9.0\MyRazorApp1.sourcelink.json
+C:\Skola\MyRazorApp1\obj\Debug\net9.0\compressed\p9xlde0wn6-v4ybbnxadt.gz
+C:\Skola\MyRazorApp1\obj\Debug\net9.0\compressed\ca3l59khot-u3myjzofp1.gz
