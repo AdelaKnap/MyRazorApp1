@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cdGd1VCwEDoJN5hXtPTqyaW7F3alcyaLCnZ5rQ8Csqg=",
+  "Hash": "Xu5qCA8bCpgMCbJOoGfEuCzykmIUHWVS2yiF0mZD8zU=",
   "Source": "MyRazorApp1",
   "BasePath": "_content/MyRazorApp1",
   "Mode": "Default",
@@ -941,12 +941,12 @@
       "OriginalItemSpec": "C:\\Skola\\MyRazorApp1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\p9xlde0wn6-v4ybbnxadt.gz",
+      "Identity": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\p9xlde0wn6-seoaw6wxid.gz",
       "SourceId": "MyRazorApp1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MyRazorApp1",
-      "RelativePath": "css/site#[.{fingerprint=v4ybbnxadt}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=seoaw6wxid}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -955,8 +955,8 @@
       "RelatedAsset": "C:\\Skola\\MyRazorApp1\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "eplun0hse8",
-      "Integrity": "nq9PZA/lK92MGuv/11RGxJWIbKT5eAibJkn9nwLtb0M=",
+      "Fingerprint": "atpp8axj2z",
+      "Integrity": "EnG4I7VKdRfjGqwk/8vCzF42uB3w2TDBuDMuB3ZYm8I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Skola\\MyRazorApp1\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "v4ybbnxadt",
-      "Integrity": "cUe4gnyhiwKKzmBMUuwxlUGS+uiWLYbTCsSc6lsXpe0=",
+      "Fingerprint": "seoaw6wxid",
+      "Integrity": "7C1msSQKvT7fC83EHVYWxfzlb5qu+aagRRvV1wfXGAQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2750,12 +2750,12 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\p9xlde0wn6-v4ybbnxadt.gz",
+      "AssetFile": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\p9xlde0wn6-seoaw6wxid.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002518891688"
+          "Quality": "0.002352941176"
         }
       ],
       "ResponseHeaders": [
@@ -2765,15 +2765,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "396"
+          "Value": "424"
         },
         {
           "Name": "ETag",
-          "Value": "\"nq9PZA/lK92MGuv/11RGxJWIbKT5eAibJkn9nwLtb0M=\""
+          "Value": "\"EnG4I7VKdRfjGqwk/8vCzF42uB3w2TDBuDMuB3ZYm8I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:22 GMT"
+          "Value": "Tue, 21 Jan 2025 10:56:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2793,13 +2793,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"cUe4gnyhiwKKzmBMUuwxlUGS+uiWLYbTCsSc6lsXpe0=\""
+          "Value": "W/\"7C1msSQKvT7fC83EHVYWxfzlb5qu+aagRRvV1wfXGAQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cUe4gnyhiwKKzmBMUuwxlUGS+uiWLYbTCsSc6lsXpe0="
+          "Value": "sha256-7C1msSQKvT7fC83EHVYWxfzlb5qu+aagRRvV1wfXGAQ="
         }
       ]
     },
@@ -2814,7 +2814,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "967"
+          "Value": "1030"
         },
         {
           "Name": "Content-Type",
@@ -2822,11 +2822,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cUe4gnyhiwKKzmBMUuwxlUGS+uiWLYbTCsSc6lsXpe0=\""
+          "Value": "\"7C1msSQKvT7fC83EHVYWxfzlb5qu+aagRRvV1wfXGAQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:22 GMT"
+          "Value": "Tue, 21 Jan 2025 10:56:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2836,13 +2836,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cUe4gnyhiwKKzmBMUuwxlUGS+uiWLYbTCsSc6lsXpe0="
+          "Value": "sha256-7C1msSQKvT7fC83EHVYWxfzlb5qu+aagRRvV1wfXGAQ="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\p9xlde0wn6-v4ybbnxadt.gz",
+      "AssetFile": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\p9xlde0wn6-seoaw6wxid.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2851,7 +2851,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "396"
+          "Value": "424"
         },
         {
           "Name": "Content-Type",
@@ -2859,11 +2859,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nq9PZA/lK92MGuv/11RGxJWIbKT5eAibJkn9nwLtb0M=\""
+          "Value": "\"EnG4I7VKdRfjGqwk/8vCzF42uB3w2TDBuDMuB3ZYm8I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:22 GMT"
+          "Value": "Tue, 21 Jan 2025 10:56:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2881,18 +2881,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nq9PZA/lK92MGuv/11RGxJWIbKT5eAibJkn9nwLtb0M="
+          "Value": "sha256-EnG4I7VKdRfjGqwk/8vCzF42uB3w2TDBuDMuB3ZYm8I="
         }
       ]
     },
     {
-      "Route": "css/site.v4ybbnxadt.css",
-      "AssetFile": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\p9xlde0wn6-v4ybbnxadt.gz",
+      "Route": "css/site.seoaw6wxid.css",
+      "AssetFile": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\p9xlde0wn6-seoaw6wxid.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002518891688"
+          "Quality": "0.002352941176"
         }
       ],
       "ResponseHeaders": [
@@ -2902,15 +2902,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "396"
+          "Value": "424"
         },
         {
           "Name": "ETag",
-          "Value": "\"nq9PZA/lK92MGuv/11RGxJWIbKT5eAibJkn9nwLtb0M=\""
+          "Value": "\"EnG4I7VKdRfjGqwk/8vCzF42uB3w2TDBuDMuB3ZYm8I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:22 GMT"
+          "Value": "Tue, 21 Jan 2025 10:56:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2930,13 +2930,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"cUe4gnyhiwKKzmBMUuwxlUGS+uiWLYbTCsSc6lsXpe0=\""
+          "Value": "W/\"7C1msSQKvT7fC83EHVYWxfzlb5qu+aagRRvV1wfXGAQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v4ybbnxadt"
+          "Value": "seoaw6wxid"
         },
         {
           "Name": "label",
@@ -2944,12 +2944,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cUe4gnyhiwKKzmBMUuwxlUGS+uiWLYbTCsSc6lsXpe0="
+          "Value": "sha256-7C1msSQKvT7fC83EHVYWxfzlb5qu+aagRRvV1wfXGAQ="
         }
       ]
     },
     {
-      "Route": "css/site.v4ybbnxadt.css",
+      "Route": "css/site.seoaw6wxid.css",
       "AssetFile": "C:\\Skola\\MyRazorApp1\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2959,7 +2959,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "967"
+          "Value": "1030"
         },
         {
           "Name": "Content-Type",
@@ -2967,11 +2967,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cUe4gnyhiwKKzmBMUuwxlUGS+uiWLYbTCsSc6lsXpe0=\""
+          "Value": "\"7C1msSQKvT7fC83EHVYWxfzlb5qu+aagRRvV1wfXGAQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:22 GMT"
+          "Value": "Tue, 21 Jan 2025 10:56:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2981,7 +2981,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v4ybbnxadt"
+          "Value": "seoaw6wxid"
         },
         {
           "Name": "label",
@@ -2989,13 +2989,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cUe4gnyhiwKKzmBMUuwxlUGS+uiWLYbTCsSc6lsXpe0="
+          "Value": "sha256-7C1msSQKvT7fC83EHVYWxfzlb5qu+aagRRvV1wfXGAQ="
         }
       ]
     },
     {
-      "Route": "css/site.v4ybbnxadt.css.gz",
-      "AssetFile": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\p9xlde0wn6-v4ybbnxadt.gz",
+      "Route": "css/site.seoaw6wxid.css.gz",
+      "AssetFile": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\p9xlde0wn6-seoaw6wxid.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3004,7 +3004,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "396"
+          "Value": "424"
         },
         {
           "Name": "Content-Type",
@@ -3012,11 +3012,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nq9PZA/lK92MGuv/11RGxJWIbKT5eAibJkn9nwLtb0M=\""
+          "Value": "\"EnG4I7VKdRfjGqwk/8vCzF42uB3w2TDBuDMuB3ZYm8I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:22 GMT"
+          "Value": "Tue, 21 Jan 2025 10:56:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3034,7 +3034,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "v4ybbnxadt"
+          "Value": "seoaw6wxid"
         },
         {
           "Name": "label",
@@ -3042,7 +3042,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nq9PZA/lK92MGuv/11RGxJWIbKT5eAibJkn9nwLtb0M="
+          "Value": "sha256-EnG4I7VKdRfjGqwk/8vCzF42uB3w2TDBuDMuB3ZYm8I="
         }
       ]
     },
