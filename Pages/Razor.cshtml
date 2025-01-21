@@ -5,7 +5,7 @@
 }
 <div class="container">
 
-<h1 class="text mb-3">@ViewData["Title"]</h1>
+<h1 class="text mb-3 mt-4">@ViewData["Title"]</h1>
 
 <h2 class="text mb-3">Information</h2>
 <p><strong>Datum/klockslag:</strong> @DateTime.Now</p>
@@ -31,11 +31,8 @@
 <ul>
     @foreach (var course in courses)
     {
-        <li>@course</li>
+        <li class="course">@course</li>
     }
 </ul>
 
 </div>
-
-<!-- import av js-filen -->
-<script src="js/site.js"></script>

@@ -6,3 +6,11 @@
 function showMessage() {
     alert("Ha en fin fin dag!");
 }
+
+function showStartMessage() {
+    alert("Looking sharp today!");
+}
+
+function showMessageAbout() {
+    alert("Du vet väl om att du är värdefull!");
+}

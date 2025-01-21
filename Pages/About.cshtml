@@ -1,11 +1,25 @@
 ﻿@page
 @model MyApp.Namespace.AboutModel
 @{
-    ViewData["Title"] = "About";
+    ViewData["Title"] = "Om sidan";
 
 }
 
-<h1>@ViewData["Title"]</h1>
+<div class="about-container">
 
-<p>Om sidan....@DateTime.Now</p>
+    <h1>@ViewData["Title"]</h1>
+    <br>
 
+    <p>
+        Hej och välkommen till Adelas webbplats!<br><br>
+        Tre snabba om mig: bokmal, skogsnörd och kaffeälskare.<br><br>
+        I den här uppgiften har jag skapat en enklare webbplats med hjälp av ASP.NET Core Web App (Razor
+        Pages). Uppgiften går ut på att bygga en webbplats som innehåller tre undersidor: Hem, Razor och Om sidan.<br>
+        På Razor-sidan finns tidsinformation och en lista över kurser jag läst.<br>
+        På Hem-sidan finns två citat om kodning och en knapp som visar ett meddelande.<br><br>
+        Klicka på knapparna på undersidorna för lite peppande alerts!
+    </p>
+
+
+    <button id="button-about" onclick="showMessageAbout()">Klicka här!</button>
+</div>

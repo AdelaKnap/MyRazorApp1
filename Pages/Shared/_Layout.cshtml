@@ -13,10 +13,10 @@
 
 <body>
     <header>
-        <div class="bg-white border-bottom box-shadow mb-3 p-3 d-flex justify-content-between align-items-center">
+        <div class="bg-white border-bottom box-shadow mb-3 d-flex justify-content-between align-items-center">
             <!-- Logotyp -->
             <a href="/" class="d-flex align-items-center text-decoration-none">
-                <img src="/images/ikon300.png" alt="Logotyp" style="height: 120px;" />
+                <img src="/images/ikon300.png" alt="Logotyp" style="height: 100px;" />
             </a>
             <!-- Datum -->
             <div>
@@ -33,13 +33,16 @@
                 <nav>
                     <ul class="nav flex-column text-center pt-4">
                         <li class="nav-item border mb-3">
-                            <a class="nav-link" asp-page="/Index">Hem</a>
+                            <a class="nav-link @(ViewContext.RouteData.Values["Page"]?.ToString() == "/Index" ? "current" : "")"
+                                asp-page="/Index">Hem</a>
                         </li>
                         <li class="nav-item border mb-3">
-                            <a class="nav-link" asp-page="/Razor">Razor</a>
+                            <a class="nav-link @(ViewContext.RouteData.Values["Page"]?.ToString() == "/Razor" ? "current" : "")"
+                                asp-page="/Razor">Razor</a>
                         </li>
                         <li class="nav-item border mb-3">
-                            <a class="nav-link" asp-page="/About">Om sidan</a>
+                            <a class="nav-link @(ViewContext.RouteData.Values["Page"]?.ToString() == "/About" ? "current" : "")"
+                                asp-page="/About">Om sidan</a>
                         </li>
                     </ul>
                 </nav>
@@ -52,10 +55,10 @@
         </div>
     </div>
 
-    <footer class="footer border mb-3 text-center">
+    <footer class="footer border text-center">
         <div class="container">
-            <p>Av Adela Knap - Kontakta mig via e-post: <a
-                    href="mailto:adkna2300@student.miun.se">adkna2300@student.miun.se</a></p>
+            <p>Av: Adela - Kontakt via e-post: <a href="mailto:adkna2300@student.miun.se">adkna2300@student.miun.se</a>
+            </p>
         </div>
     </footer>
 

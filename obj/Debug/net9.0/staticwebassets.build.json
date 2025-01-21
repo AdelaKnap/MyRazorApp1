@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Xu5qCA8bCpgMCbJOoGfEuCzykmIUHWVS2yiF0mZD8zU=",
+  "Hash": "52rld3JzTVU8IBawgRBGr5naesKvxRA1kbGbeeSWcHo=",
   "Source": "MyRazorApp1",
   "BasePath": "_content/MyRazorApp1",
   "Mode": "Default",
@@ -437,12 +437,12 @@
       "OriginalItemSpec": "C:\\Skola\\MyRazorApp1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\ca3l59khot-u3myjzofp1.gz",
+      "Identity": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\ca3l59khot-4k862ez2lh.gz",
       "SourceId": "MyRazorApp1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MyRazorApp1",
-      "RelativePath": "js/site#[.{fingerprint=u3myjzofp1}]?.js.gz",
+      "RelativePath": "js/site#[.{fingerprint=4k862ez2lh}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -451,8 +451,8 @@
       "RelatedAsset": "C:\\Skola\\MyRazorApp1\\wwwroot\\js\\site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5ar87x2zl2",
-      "Integrity": "41h5kGlukJfrWhgKrA0E8A2cr0GAoy5a8T0uYt2yc3Y=",
+      "Fingerprint": "hmgl5bp7hj",
+      "Integrity": "aciNUIB+7S13eUl/Fo165qg2Bm6dQ5iaNhvqFrae0MI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Skola\\MyRazorApp1\\wwwroot\\js\\site.js"
@@ -941,12 +941,12 @@
       "OriginalItemSpec": "C:\\Skola\\MyRazorApp1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\p9xlde0wn6-seoaw6wxid.gz",
+      "Identity": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\p9xlde0wn6-wzorl15xex.gz",
       "SourceId": "MyRazorApp1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MyRazorApp1",
-      "RelativePath": "css/site#[.{fingerprint=seoaw6wxid}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=wzorl15xex}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -955,8 +955,8 @@
       "RelatedAsset": "C:\\Skola\\MyRazorApp1\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "atpp8axj2z",
-      "Integrity": "EnG4I7VKdRfjGqwk/8vCzF42uB3w2TDBuDMuB3ZYm8I=",
+      "Fingerprint": "2fot5kfs02",
+      "Integrity": "3gVTv265hl4fd7XpImtx6kN0NrbQLo5vx1Qf72/2icg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Skola\\MyRazorApp1\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "seoaw6wxid",
-      "Integrity": "7C1msSQKvT7fC83EHVYWxfzlb5qu+aagRRvV1wfXGAQ=",
+      "Fingerprint": "wzorl15xex",
+      "Integrity": "tN/jCPNWZ5zbA1AbDcWsVzfMYtorIXCyhdq+MbmFhpw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1480,8 +1480,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "u3myjzofp1",
-      "Integrity": "akPgR0nhUx8R0/F9U0YO3/IQh+j5fWfKZy2gtcG44js=",
+      "Fingerprint": "4k862ez2lh",
+      "Integrity": "LKWePTFbFmysc40QFdtDAaGH3T7gTlAvHZQLDNOe2qw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -2750,12 +2750,12 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\p9xlde0wn6-seoaw6wxid.gz",
+      "AssetFile": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\p9xlde0wn6-wzorl15xex.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002352941176"
+          "Quality": "0.001879699248"
         }
       ],
       "ResponseHeaders": [
@@ -2765,15 +2765,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "424"
+          "Value": "531"
         },
         {
           "Name": "ETag",
-          "Value": "\"EnG4I7VKdRfjGqwk/8vCzF42uB3w2TDBuDMuB3ZYm8I=\""
+          "Value": "\"3gVTv265hl4fd7XpImtx6kN0NrbQLo5vx1Qf72/2icg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 10:56:15 GMT"
+          "Value": "Tue, 21 Jan 2025 13:55:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2793,13 +2793,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"7C1msSQKvT7fC83EHVYWxfzlb5qu+aagRRvV1wfXGAQ=\""
+          "Value": "W/\"tN/jCPNWZ5zbA1AbDcWsVzfMYtorIXCyhdq+MbmFhpw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7C1msSQKvT7fC83EHVYWxfzlb5qu+aagRRvV1wfXGAQ="
+          "Value": "sha256-tN/jCPNWZ5zbA1AbDcWsVzfMYtorIXCyhdq+MbmFhpw="
         }
       ]
     },
@@ -2814,7 +2814,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1030"
+          "Value": "1376"
         },
         {
           "Name": "Content-Type",
@@ -2822,11 +2822,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7C1msSQKvT7fC83EHVYWxfzlb5qu+aagRRvV1wfXGAQ=\""
+          "Value": "\"tN/jCPNWZ5zbA1AbDcWsVzfMYtorIXCyhdq+MbmFhpw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 10:56:15 GMT"
+          "Value": "Tue, 21 Jan 2025 13:55:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2836,13 +2836,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7C1msSQKvT7fC83EHVYWxfzlb5qu+aagRRvV1wfXGAQ="
+          "Value": "sha256-tN/jCPNWZ5zbA1AbDcWsVzfMYtorIXCyhdq+MbmFhpw="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\p9xlde0wn6-seoaw6wxid.gz",
+      "AssetFile": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\p9xlde0wn6-wzorl15xex.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2851,7 +2851,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "424"
+          "Value": "531"
         },
         {
           "Name": "Content-Type",
@@ -2859,11 +2859,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EnG4I7VKdRfjGqwk/8vCzF42uB3w2TDBuDMuB3ZYm8I=\""
+          "Value": "\"3gVTv265hl4fd7XpImtx6kN0NrbQLo5vx1Qf72/2icg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 10:56:15 GMT"
+          "Value": "Tue, 21 Jan 2025 13:55:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2881,18 +2881,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EnG4I7VKdRfjGqwk/8vCzF42uB3w2TDBuDMuB3ZYm8I="
+          "Value": "sha256-3gVTv265hl4fd7XpImtx6kN0NrbQLo5vx1Qf72/2icg="
         }
       ]
     },
     {
-      "Route": "css/site.seoaw6wxid.css",
-      "AssetFile": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\p9xlde0wn6-seoaw6wxid.gz",
+      "Route": "css/site.wzorl15xex.css",
+      "AssetFile": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\p9xlde0wn6-wzorl15xex.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002352941176"
+          "Quality": "0.001879699248"
         }
       ],
       "ResponseHeaders": [
@@ -2902,15 +2902,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "424"
+          "Value": "531"
         },
         {
           "Name": "ETag",
-          "Value": "\"EnG4I7VKdRfjGqwk/8vCzF42uB3w2TDBuDMuB3ZYm8I=\""
+          "Value": "\"3gVTv265hl4fd7XpImtx6kN0NrbQLo5vx1Qf72/2icg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 10:56:15 GMT"
+          "Value": "Tue, 21 Jan 2025 13:55:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2930,13 +2930,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"7C1msSQKvT7fC83EHVYWxfzlb5qu+aagRRvV1wfXGAQ=\""
+          "Value": "W/\"tN/jCPNWZ5zbA1AbDcWsVzfMYtorIXCyhdq+MbmFhpw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "seoaw6wxid"
+          "Value": "wzorl15xex"
         },
         {
           "Name": "label",
@@ -2944,12 +2944,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7C1msSQKvT7fC83EHVYWxfzlb5qu+aagRRvV1wfXGAQ="
+          "Value": "sha256-tN/jCPNWZ5zbA1AbDcWsVzfMYtorIXCyhdq+MbmFhpw="
         }
       ]
     },
     {
-      "Route": "css/site.seoaw6wxid.css",
+      "Route": "css/site.wzorl15xex.css",
       "AssetFile": "C:\\Skola\\MyRazorApp1\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2959,7 +2959,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1030"
+          "Value": "1376"
         },
         {
           "Name": "Content-Type",
@@ -2967,11 +2967,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7C1msSQKvT7fC83EHVYWxfzlb5qu+aagRRvV1wfXGAQ=\""
+          "Value": "\"tN/jCPNWZ5zbA1AbDcWsVzfMYtorIXCyhdq+MbmFhpw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 10:56:15 GMT"
+          "Value": "Tue, 21 Jan 2025 13:55:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2981,7 +2981,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "seoaw6wxid"
+          "Value": "wzorl15xex"
         },
         {
           "Name": "label",
@@ -2989,13 +2989,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7C1msSQKvT7fC83EHVYWxfzlb5qu+aagRRvV1wfXGAQ="
+          "Value": "sha256-tN/jCPNWZ5zbA1AbDcWsVzfMYtorIXCyhdq+MbmFhpw="
         }
       ]
     },
     {
-      "Route": "css/site.seoaw6wxid.css.gz",
-      "AssetFile": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\p9xlde0wn6-seoaw6wxid.gz",
+      "Route": "css/site.wzorl15xex.css.gz",
+      "AssetFile": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\p9xlde0wn6-wzorl15xex.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3004,7 +3004,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "424"
+          "Value": "531"
         },
         {
           "Name": "Content-Type",
@@ -3012,11 +3012,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EnG4I7VKdRfjGqwk/8vCzF42uB3w2TDBuDMuB3ZYm8I=\""
+          "Value": "\"3gVTv265hl4fd7XpImtx6kN0NrbQLo5vx1Qf72/2icg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 10:56:15 GMT"
+          "Value": "Tue, 21 Jan 2025 13:55:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3034,7 +3034,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "seoaw6wxid"
+          "Value": "wzorl15xex"
         },
         {
           "Name": "label",
@@ -3042,7 +3042,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-EnG4I7VKdRfjGqwk/8vCzF42uB3w2TDBuDMuB3ZYm8I="
+          "Value": "sha256-3gVTv265hl4fd7XpImtx6kN0NrbQLo5vx1Qf72/2icg="
         }
       ]
     },
@@ -3427,13 +3427,13 @@
       ]
     },
     {
-      "Route": "js/site.js",
-      "AssetFile": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\ca3l59khot-u3myjzofp1.gz",
+      "Route": "js/site.4k862ez2lh.js",
+      "AssetFile": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\ca3l59khot-4k862ez2lh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004219409283"
+          "Quality": "0.003355704698"
         }
       ],
       "ResponseHeaders": [
@@ -3443,19 +3443,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "236"
+          "Value": "297"
         },
         {
           "Name": "ETag",
-          "Value": "\"41h5kGlukJfrWhgKrA0E8A2cr0GAoy5a8T0uYt2yc3Y=\""
+          "Value": "\"aciNUIB+7S13eUl/Fo165qg2Bm6dQ5iaNhvqFrae0MI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 10:44:36 GMT"
+          "Value": "Tue, 21 Jan 2025 13:28:15 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -3471,18 +3471,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"akPgR0nhUx8R0/F9U0YO3/IQh+j5fWfKZy2gtcG44js=\""
+          "Value": "W/\"LKWePTFbFmysc40QFdtDAaGH3T7gTlAvHZQLDNOe2qw=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "4k862ez2lh"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-akPgR0nhUx8R0/F9U0YO3/IQh+j5fWfKZy2gtcG44js="
+          "Value": "sha256-LKWePTFbFmysc40QFdtDAaGH3T7gTlAvHZQLDNOe2qw="
         }
       ]
     },
     {
-      "Route": "js/site.js",
+      "Route": "js/site.4k862ez2lh.js",
       "AssetFile": "C:\\Skola\\MyRazorApp1\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3492,7 +3500,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "296"
+          "Value": "457"
         },
         {
           "Name": "Content-Type",
@@ -3500,121 +3508,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"akPgR0nhUx8R0/F9U0YO3/IQh+j5fWfKZy2gtcG44js=\""
+          "Value": "\"LKWePTFbFmysc40QFdtDAaGH3T7gTlAvHZQLDNOe2qw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 10:44:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-akPgR0nhUx8R0/F9U0YO3/IQh+j5fWfKZy2gtcG44js="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.js.gz",
-      "AssetFile": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\ca3l59khot-u3myjzofp1.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "236"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"41h5kGlukJfrWhgKrA0E8A2cr0GAoy5a8T0uYt2yc3Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 10:44:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-41h5kGlukJfrWhgKrA0E8A2cr0GAoy5a8T0uYt2yc3Y="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.u3myjzofp1.js",
-      "AssetFile": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\ca3l59khot-u3myjzofp1.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.004219409283"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "236"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"41h5kGlukJfrWhgKrA0E8A2cr0GAoy5a8T0uYt2yc3Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 10:44:36 GMT"
+          "Value": "Tue, 21 Jan 2025 13:28:15 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"akPgR0nhUx8R0/F9U0YO3/IQh+j5fWfKZy2gtcG44js=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u3myjzofp1"
+          "Value": "4k862ez2lh"
         },
         {
           "Name": "label",
@@ -3622,13 +3530,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-akPgR0nhUx8R0/F9U0YO3/IQh+j5fWfKZy2gtcG44js="
+          "Value": "sha256-LKWePTFbFmysc40QFdtDAaGH3T7gTlAvHZQLDNOe2qw="
         }
       ]
     },
     {
-      "Route": "js/site.u3myjzofp1.js",
-      "AssetFile": "C:\\Skola\\MyRazorApp1\\wwwroot\\js\\site.js",
+      "Route": "js/site.4k862ez2lh.js.gz",
+      "AssetFile": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\ca3l59khot-4k862ez2lh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3637,7 +3545,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "296"
+          "Value": "297"
         },
         {
           "Name": "Content-Type",
@@ -3645,56 +3553,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"akPgR0nhUx8R0/F9U0YO3/IQh+j5fWfKZy2gtcG44js=\""
+          "Value": "\"aciNUIB+7S13eUl/Fo165qg2Bm6dQ5iaNhvqFrae0MI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 10:44:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "u3myjzofp1"
-        },
-        {
-          "Name": "label",
-          "Value": "js/site.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-akPgR0nhUx8R0/F9U0YO3/IQh+j5fWfKZy2gtcG44js="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.u3myjzofp1.js.gz",
-      "AssetFile": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\ca3l59khot-u3myjzofp1.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "236"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"41h5kGlukJfrWhgKrA0E8A2cr0GAoy5a8T0uYt2yc3Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 10:44:36 GMT"
+          "Value": "Tue, 21 Jan 2025 13:28:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3712,7 +3575,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u3myjzofp1"
+          "Value": "4k862ez2lh"
         },
         {
           "Name": "label",
@@ -3720,7 +3583,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-41h5kGlukJfrWhgKrA0E8A2cr0GAoy5a8T0uYt2yc3Y="
+          "Value": "sha256-aciNUIB+7S13eUl/Fo165qg2Bm6dQ5iaNhvqFrae0MI="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\ca3l59khot-4k862ez2lh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003355704698"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "297"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aciNUIB+7S13eUl/Fo165qg2Bm6dQ5iaNhvqFrae0MI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 13:28:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LKWePTFbFmysc40QFdtDAaGH3T7gTlAvHZQLDNOe2qw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LKWePTFbFmysc40QFdtDAaGH3T7gTlAvHZQLDNOe2qw="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Skola\\MyRazorApp1\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LKWePTFbFmysc40QFdtDAaGH3T7gTlAvHZQLDNOe2qw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 13:28:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LKWePTFbFmysc40QFdtDAaGH3T7gTlAvHZQLDNOe2qw="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.gz",
+      "AssetFile": "C:\\Skola\\MyRazorApp1\\obj\\Debug\\net9.0\\compressed\\ca3l59khot-4k862ez2lh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "297"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aciNUIB+7S13eUl/Fo165qg2Bm6dQ5iaNhvqFrae0MI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 13:28:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aciNUIB+7S13eUl/Fo165qg2Bm6dQ5iaNhvqFrae0MI="
         }
       ]
     },

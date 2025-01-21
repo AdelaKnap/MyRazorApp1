@@ -191,5 +191,5 @@ C:\Skola\MyRazorApp1\obj\Debug\net9.0\MyRazorApp1.pdb
 C:\Skola\MyRazorApp1\obj\Debug\net9.0\MyRazorApp1.genruntimeconfig.cache
 C:\Skola\MyRazorApp1\obj\Debug\net9.0\ref\MyRazorApp1.dll
 C:\Skola\MyRazorApp1\obj\Debug\net9.0\MyRazorApp1.sourcelink.json
-C:\Skola\MyRazorApp1\obj\Debug\net9.0\compressed\ca3l59khot-u3myjzofp1.gz
-C:\Skola\MyRazorApp1\obj\Debug\net9.0\compressed\p9xlde0wn6-seoaw6wxid.gz
+C:\Skola\MyRazorApp1\obj\Debug\net9.0\compressed\p9xlde0wn6-wzorl15xex.gz
+C:\Skola\MyRazorApp1\obj\Debug\net9.0\compressed\ca3l59khot-4k862ez2lh.gz
