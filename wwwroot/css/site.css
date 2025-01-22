@@ -37,12 +37,12 @@ body {
 }
 
 main {
-  background-color: white;
+  background-color: #f4e1fa;
   margin-left: 3%;
 }
 
 aside {
-  background-color: white;
+  background-color: #f4e1fa;
   margin-left: 2%;
 }
 
@@ -76,6 +76,7 @@ footer {
 
 .nav-link {
   color: black;
+  background-color: rgb(219, 217, 219);
 }
 
 .nav-link:hover {
